@@ -1,16 +1,16 @@
-# licenta
+# Memory Lane
 
-A new Flutter project.
+Memory Lane is a mobile application dedicated to improving the lives of dementia patients, particularly those diagnosed with Alzheimer's. The main purpose of this application is to provide support to patients and their caregivers, facilitating the monitoring of physical and mental health, as well as the management of daily activities. 
 
-## Getting Started
+## Technologies
+* **Frontend**: Flutter (Dart)
+* **Backend**: Firebase
+* **Database**: Cloud Firestore
+* **Other tools**: Cloud Storage, Firebase Authentication, Google Cloud etc.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Functionalities
+* Monitoring physical and mental health
+* Management of daily activities and important events
+* Accessing the patient's position and favorite locations
+* Cognitive stimulation through memory games
+* Preserving memories with family and friends
